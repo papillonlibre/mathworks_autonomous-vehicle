@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <folder>annotations</folder>
+  <filename>n003-2018-07-19-13-06-40+0800__CAM_FRONT_LEFT__1531977123005224.jpg</filename>
+  <path>C:/Users/mgavilan/Downloads/datasets/test/images\n003-2018-07-19-13-06-40+0800__CAM_FRONT_LEFT__1531977123005224.jpg</path>
+  <directory>C:/Users/mgavilan/Downloads/datasets/test/images\n003-2018-07-19-13-06-40+0800__CAM_FRONT_LEFT__1531977123005224.jpg</directory>
+  <size>
+    <width>1600</width>
+    <height>900</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>human.pedestrian.adult-pedestrian.moving</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1482</xmin>
+      <ymin>386</ymin>
+      <xmax>1525</xmax>
+      <ymax>491</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>human.pedestrian.adult-pedestrian.moving</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1425</xmin>
+      <ymin>385</ymin>
+      <xmax>1470</xmax>
+      <ymax>489</ymax>
+    </bndbox>
+  </object>
+</annotation>

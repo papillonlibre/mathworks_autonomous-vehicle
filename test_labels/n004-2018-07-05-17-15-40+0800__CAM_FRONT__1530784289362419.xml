@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <folder>annotations</folder>
+  <filename>n004-2018-07-05-17-15-40+0800__CAM_FRONT__1530784289362419.jpg</filename>
+  <path>C:/Users/mgavilan/Downloads/datasets/test/images\n004-2018-07-05-17-15-40+0800__CAM_FRONT__1530784289362419.jpg</path>
+  <directory>C:/Users/mgavilan/Downloads/datasets/test/images\n004-2018-07-05-17-15-40+0800__CAM_FRONT__1530784289362419.jpg</directory>
+  <size>
+    <width>1600</width>
+    <height>900</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>vehicle.bicycle-cycle.with_rider</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1388</xmin>
+      <ymin>470</ymin>
+      <xmax>1416</xmax>
+      <ymax>519</ymax>
+    </bndbox>
+  </object>
+</annotation>
