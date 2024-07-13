@@ -1,0 +1,49 @@
+item {
+    id: 1
+    name: 'human.pedestrian.adult-pedestrian.moving'
+}
+
+item {
+    id: 2
+    name: 'human.pedestrian.adult-pedestrian.sitting_lying_down'
+}
+
+item {
+    id: 3
+    name: 'human.pedestrian.adult-pedestrian.standing'
+}
+
+item {
+    id: 4
+    name: 'human.pedestrian.child-pedestrian.moving'
+}
+
+item {
+    id: 5
+    name: 'human.pedestrian.child-pedestrian.standing'
+}
+
+item {
+    id: 6
+    name: 'human.pedestrian.construction_worker-pedestrian.moving'
+}
+
+item {
+    id: 7
+    name: 'human.pedestrian.construction_worker-pedestrian.standing'
+}
+
+item {
+    id: 8
+    name: 'human.pedestrian.police_officer-pedestrian.standing'
+}
+
+item {
+    id: 9
+    name: 'vehicle.bicycle-cycle.with_rider'
+}
+
+item {
+    id: 10
+    name: 'vehicle.motorcycle-cycle.with_rider'
+}

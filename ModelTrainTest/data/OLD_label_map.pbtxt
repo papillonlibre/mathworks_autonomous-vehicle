@@ -1,0 +1,29 @@
+item {
+    id: 1
+    name: 'animal-pedestrian.moving'
+}
+
+item {
+    id: 2
+    name: 'human.pedestrian.adult-pedestrian.moving'
+}
+
+item {
+    id: 3
+    name: 'human.pedestrian.child-pedestrian.moving'
+}
+
+item {
+    id: 4
+    name: 'human.pedestrian.construction_worker-pedestrian.moving'
+}
+
+item {
+    id: 5
+    name: 'vehicle.bicycle-cycle.with_rider'
+}
+
+item {
+    id: 6
+    name: 'vehicle.motorcycle-cycle.with_rider'
+}

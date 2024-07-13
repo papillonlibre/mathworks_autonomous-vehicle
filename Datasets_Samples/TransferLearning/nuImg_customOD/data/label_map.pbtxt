@@ -1,0 +1,64 @@
+item {
+    id: 1
+    name: 'human.pedestrian.adult'
+}
+
+item {
+    id: 2
+    name: 'human.pedestrian.construction_worker'
+}
+
+item {
+    id: 3
+    name: 'human.pedestrian.personal_mobility'
+}
+
+item {
+    id: 4
+    name: 'movable_object.barrier'
+}
+
+item {
+    id: 5
+    name: 'movable_object.debris'
+}
+
+item {
+    id: 6
+    name: 'movable_object.pushable_pullable'
+}
+
+item {
+    id: 7
+    name: 'movable_object.trafficcone'
+}
+
+item {
+    id: 8
+    name: 'vehicle.bicycle'
+}
+
+item {
+    id: 9
+    name: 'vehicle.bus.rigid'
+}
+
+item {
+    id: 10
+    name: 'vehicle.car'
+}
+
+item {
+    id: 11
+    name: 'vehicle.construction'
+}
+
+item {
+    id: 12
+    name: 'vehicle.motorcycle'
+}
+
+item {
+    id: 13
+    name: 'vehicle.truck'
+}

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <folder>annotations</folder>
+  <filename>n013-2018-08-29-14-19-16+0800__CAM_FRONT_LEFT__1535524658904825.jpg</filename>
+  <path>/content/sample_data/images/n013-2018-08-29-14-19-16+0800__CAM_FRONT_LEFT__1535524658904825.jpg</path>
+  <directory>/content/sample_data/images/n013-2018-08-29-14-19-16+0800__CAM_FRONT_LEFT__1535524658904825.jpg</directory>
+  <size>
+    <width>1600</width>
+    <height>900</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>human.pedestrian.adult</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>699</xmin>
+      <ymin>419</ymin>
+      <xmax>752</xmax>
+      <ymax>580</ymax>
+    </bndbox>
+  </object>
+</annotation>

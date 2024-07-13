@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <folder>annotations</folder>
+  <filename>n010-2018-07-05-14-36-33+0800__CAM_BACK_LEFT__1530772754897633.jpg</filename>
+  <path>/content/sample_data/images/n010-2018-07-05-14-36-33+0800__CAM_BACK_LEFT__1530772754897633.jpg</path>
+  <directory>/content/sample_data/images/n010-2018-07-05-14-36-33+0800__CAM_BACK_LEFT__1530772754897633.jpg</directory>
+  <size>
+    <width>1600</width>
+    <height>900</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>vehicle.bicycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1075</xmin>
+      <ymin>365</ymin>
+      <xmax>1342</xmax>
+      <ymax>538</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>human.pedestrian.adult</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>400</xmin>
+      <ymin>247</ymin>
+      <xmax>449</xmax>
+      <ymax>380</ymax>
+    </bndbox>
+  </object>
+</annotation>
