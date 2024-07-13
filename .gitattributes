@@ -1,3 +1,6 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
 variables.data-* filter=lfs diff=lfs merge=lfs -text
+ModelTrainTest/data/faster_rcnn_resnet101_v1_1024x1024_coco17_tpu-8/checkpoint/ckpt-0.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+ModelTrainTest/inference/checkpoint/ckpt-0.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+ModelTrainTest/training/ckpt-1.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
