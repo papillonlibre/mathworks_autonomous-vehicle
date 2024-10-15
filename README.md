@@ -1,0 +1,2 @@
+Objective: To create a classification neural network model to identify pedestrians in relation to autonomous vehicles. 
+Data: Sourced from nuImages from nuScenes by Motional (https://www.nuscenes.org/). All the images took place in the United States, and were in a street environment. They all had the same dimensions for ease of processing, and were annotated according to the objects in the images. 
